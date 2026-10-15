@@ -1,0 +1,12 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.class
+
+# Temporary logs & history
+organizer_log.txt
+.move_history.json
+
+# Environment / OS
+.DS_Store
+Thumbs.db
